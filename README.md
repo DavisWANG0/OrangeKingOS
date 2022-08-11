@@ -1,45 +1,46 @@
 ## 1 系统及应用 文件管理
 
-![1](/Users/wangling/Desktop/OrangeKingOS/my_pic/1.png)
+![1](my_pic/1.png)
 
 ### 1.1 创建文件
 
-![image-20220811171349547](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171349547.png)
+![2](my_pic/2.png)
 
 ### 1.2 创建目录
 
-![image-20220811171440805](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171440805.png)
+![3](my_pic/3.png)
 
 ### 1.3 查看文件
 
-![image-20220811171655179](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171655179.png)
+![4](my_pic/4.png)
 
 ### 1.4 打开其它目录
 
-![image-20220811171707082](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171707082.png)
+![5](my_pic/5.png)
 
 ### 1.5 返回上级目录
 
-![image-20220811171717589](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171717589.png)
+![6](my_pic/6.png)
 
 ### 1.6 删除文件和目录
 
-![image-20220811171727444](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171727444.png)
+![7](my_pic/7.png)
 
 ### 1.7 主要函数
 
-![image-20220811171912179](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171912179.png)
+![10](my_pic/10.png)
 
 ## 2 用户级应用 游戏2048
 
 ### 2.1 主界面
 
-![image-20220811171816472](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171816472.png)
+![8](my_pic/8.png)
 
 ### 1.2 游戏过程
 
-![image-20220811171837601](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171837601.png)
+![9](my_pic/9.png)
 
 ### 1.3 主要函数
 
-![image-20220811171940531](/Users/wangling/Desktop/OrangeKingOS/my_pic/:Users:wangling:Library:Application Support:typora-user-images:image-20220811171940531.png)
+![11](my_pic/11.png)
+
